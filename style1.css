@@ -1,0 +1,27 @@
+table {
+    width: 70%;
+    margin: 10%;
+    border-bottom: #019879; 
+    
+}
+    
+    
+  
+  
+  th {
+    height: 70px;
+  }
+  #head  {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: hwb(160 24% 31%);
+    color: white;
+    border-radius: 4px;
+  }
+  tr:nth-child(4){
+    background-color: #f2f2f2;}
+    #bottom{
+border: outline;
+    }
+   

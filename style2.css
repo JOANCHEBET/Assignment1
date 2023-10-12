@@ -1,0 +1,20 @@
+.general{
+    padding: 70%;
+    text-align: center;
+    width: 20%;
+    hr{
+        line-height: 50%;
+    }
+}
+
+input[type=form]:hover {
+    background-color: red;
+}
+#select{
+    background-color: rgba(162,171,89,255);
+    color: white;
+}
+#select:hover{
+    background-color: rgba(60,89,155,255);
+    color: white;
+}
